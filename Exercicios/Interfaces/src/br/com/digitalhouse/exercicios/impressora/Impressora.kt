@@ -1,6 +1,6 @@
 package br.com.digitalhouse.interfaces
 
-class Impressora() {
+class Impressora {
 
     var listaImprimivel = mutableListOf<Imprimivel>()
 
