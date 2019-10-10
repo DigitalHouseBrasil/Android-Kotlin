@@ -1,5 +1,6 @@
-package br.com.digitalhouse.exercicios.exercicio2
+package br.com.digitalhouse.exercicios
 
+import br.com.digitalhouse.exercicios.exercicio2.Item
 import br.com.digitalhouse.exercicios.exercicio3.Estoque
 
 fun main() {
