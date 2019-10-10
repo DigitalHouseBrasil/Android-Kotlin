@@ -11,34 +11,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Principal.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Principal.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+=======
+    <leaf>
+      <file leaf-file-name="Principal.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/Principal.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Materia.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Materia.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+=======
+      <file leaf-file-name="Estoque.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/exercicio3/Estoque.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Aula.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Aula.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+=======
+      <file leaf-file-name="Fatura.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/Fatura.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Aluno.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Aluno.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,6 +79,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+=======
+      <file leaf-file-name="Item.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/Item.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="67" lean-forward="true" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
             </state>
           </provider>
         </entry>
@@ -62,6 +95,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="FxmlFile" />
+        <option value="Class" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
@@ -70,9 +108,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Materia.kt" />
         <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Aula.kt" />
         <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Aluno.kt" />
+=======
+        <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Fatura.java" />
+        <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Fatura.kt" />
+        <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Principal.kt" />
+        <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Item.kt" />
+        <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/exercicio3/Estoque.kt" />
+        <option value="$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/Principal.kt" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
       </list>
     </option>
   </component>
@@ -97,6 +144,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+<<<<<<< HEAD
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -155,11 +203,38 @@
           <select />
         </subPane>
       </pane>
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RevisaoKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RevisaoKotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RevisaoKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RevisaoKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RevisaoKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RevisaoKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -175,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.br.com.digitalhouse.exercicios.exercicio1.exercicio2.PrincipalKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -194,6 +269,26 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="br.com.digitalhouse.exercicios.exercicio1.PrincipalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="RevisaoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.com.digitalhouse.exercicios.exercicio1.PrincipalKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="br.com.digitalhouse.exercicios.exercicio1.exercicio2.PrincipalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="RevisaoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.com.digitalhouse.exercicios.exercicio1.exercicio2.PrincipalKt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -217,6 +312,16 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.br.com.digitalhouse.exercicios.exercicio1.PrincipalKt" />
+      <item itemvalue="Kotlin.br.com.digitalhouse.exercicios.exercicio1.exercicio2.PrincipalKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.br.com.digitalhouse.exercicios.exercicio1.exercicio2.PrincipalKt" />
+        <item itemvalue="Kotlin.br.com.digitalhouse.exercicios.exercicio1.PrincipalKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -242,11 +347,16 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
+=======
+      <window_info anchor="bottom" id="Messages" weight="0.3290938" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -256,17 +366,36 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290938" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2489019" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+<<<<<<< HEAD
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+=======
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +405,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Principal.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -298,12 +428,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Principal.kt">
+=======
+    <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Fatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/Item.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="67" lean-forward="true" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/exercicio3/Main.kt">
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/Materia.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -329,6 +477,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/Fatura.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/exercicio3/Estoque.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/exercicios/exercicio1/exercicio2/Principal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+>>>>>>> f8592c98f2c0c8c255f890becd249c67009ddf41
         </state>
       </provider>
     </entry>
