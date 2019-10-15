@@ -4,7 +4,7 @@ import br.com.digitalhouse.exercicios.exercicio1.*
 
 fun main() {
     var aluno1 = Aluno(1234542, "Jaum", "Felipe")
-    var aluno2 = Aluno(1335467, "Pamela", "Garcia" )
+    var aluno2 = Aluno(1335467, "Pamela", "Bortoli" )
     var aluno3 = Aluno(3557573, "Cesar", "Michelin")
     var aluno4 = Aluno(4657644, "Ana", "Pereira")
 
