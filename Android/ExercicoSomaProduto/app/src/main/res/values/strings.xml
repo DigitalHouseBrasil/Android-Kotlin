@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SomaProduto</string>
+    <string name="preco">preco</string>
+    <string name="porcentagem">porcentagem</string>
+    <string name="produto">produto</string>
+    <string name="valor_total">Valor Total</string>
+</resources>
